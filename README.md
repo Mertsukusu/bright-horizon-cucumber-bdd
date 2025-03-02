@@ -66,8 +66,6 @@ mvn clean test
 mvn clean test -Dbrowser=firefox
 mvn clean test -Dbrowser=edge
 
-# Run specific feature
-mvn clean test -Dcucumber.filter.tags="@search"
 ```
 
 ## Cucumber Reports
