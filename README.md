@@ -1,4 +1,4 @@
-# Bright Horizons Automation Framework
+# Modern BDD Cucumber Test Automation Framework
 
 A Selenium WebDriver and Cucumber BDD framework for testing the Bright Horizons website.
 
